@@ -304,15 +304,17 @@ body {
     border-top-left-radius: 3px;
     border-top-right-radius: 3px; }
     .card__picture--1 {
-      background-image: linear-gradient(to right bottom, #fff, #171717), url("../img/four.jpg"); }
+      background-image: linear-gradient(to right bottom, #fff, #171717), url("four.jpg"); }
     .card__picture--2 {
-      background-image: linear-gradient(to right bottom, #fff, #171717), url("../img/seven.jpg"); }
+      background-image: linear-gradient(to right bottom, #fff, #171717), url("seven.jpg"); }
     .card__picture--3 {
-      background-image: linear-gradient(to right bottom, #fff, #171717), url("../img/ten.jpg"); }
+      background-image: linear-gradient(to right bottom, #fff, #171717), url("ten.jpg"); }
     .card__picture--4 {
-      background-image: linear-gradient(to right bottom, #fff, #171717), url("../img/dad1.jpg"); }
+      background-image: linear-gradient(to right bottom, #fff, #171717), url("dad1.jpg"); }
+    .card__picture--5 {
+      background-image: linear-gradient(to right bottom, #fff, #171717), url("ilak1.jpg"); }
     .card__picture--6 {
-      background-image: linear-gradient(to right bottom, #fff, #171717), url("../img/viji1.jpg"); }
+      background-image: linear-gradient(to right bottom, #fff, #171717), url("viji1.jpg"); }
   .card__heading {
     font-size: 2.8rem;
     font-weight: 300;
